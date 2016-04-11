@@ -5,7 +5,6 @@ class FAQControllerCore extends FrontController
     public function init()
     {
         parent::init();
-
         $questions = [
             'Vos articles sont-ils tous en stock?' => 'Les articles les plus vendus sont en stock dans nos locaux, le réaprovisionnement se fait en 48 heures. Les délais de livraison peuvent varier de 2 à 5 jours. Pour les grosses pièces, ce délai peut augmenter, dans ce cas, vous serez contacté pour vous préciser ce délai.',
             'Je ne trouve pas la réponse à ma question. Que faire?' => 'Cliquez sur la rubrique "contact" et faites-nous part de votre question, nous y répondrons dans les plus brefs délais.',
