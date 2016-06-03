@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-04-11 11:47:30
+<?php /* Smarty version Smarty-3.1.19, created on 2016-06-03 14:35:39
          compiled from "/Applications/MAMP/htdocs/victor_espinet/prestashop/admin312fiugpn/themes/default/template/controllers/login/content.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1519051635570b72b2566e19-22073991%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:6607790995751799b8f4a47-02190485%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1519051635570b72b2566e19-22073991',
+  'nocache_hash' => '6607790995751799b8f4a47-02190485',
   'function' => 
   array (
   ),
@@ -34,9 +34,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_570b72b25bf4b3_60926617',
+  'unifunc' => 'content_5751799b9df6c0_83363126',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_570b72b25bf4b3_60926617')) {function content_570b72b25bf4b3_60926617($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include '/Applications/MAMP/htdocs/victor_espinet/prestashop/tools/smarty/plugins/modifier.date_format.php';
+<?php if ($_valid && !is_callable('content_5751799b9df6c0_83363126')) {function content_5751799b9df6c0_83363126($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include '/Applications/MAMP/htdocs/victor_espinet/prestashop/tools/smarty/plugins/modifier.date_format.php';
 ?>
 <div id="login-panel">
 	<div id="login-header">

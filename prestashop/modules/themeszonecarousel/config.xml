@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>themeszonecarousel</name>
+	<displayName><![CDATA[Themes Zone Products Carousel]]></displayName>
+	<version><![CDATA[0.9.5]]></version>
+	<description><![CDATA[Products Carousel Module by Themes Zone]]></description>
+	<author><![CDATA[Themes Zone]]></author>
+	<tab><![CDATA[]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
